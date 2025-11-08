@@ -2,7 +2,7 @@
 
 ## Overview
 This project demonstrates the use of **Custom Annotations**, **Reflection API**, and **BeanPostProcessor** in **Spring Boot**.  
-The goal is to dynamically inject values into beans from an **H2 in-memory database** based on custom annotation keys — all without using `data.sql` or manual initialization scripts.
+The goal is to dynamically inject values into beans from an **H2 in-memory database** based on custom annotation keys.
 
 ---
 
